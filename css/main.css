@@ -1,3 +1,9 @@
+/* ----------- Phones larger than 320px wide ----------- */
+@media (min-width: 320px) {
+	body {
+    background: blue;
+  }
+}
 
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
