@@ -3,7 +3,6 @@ body {
 	min-width: 320px;
 	background: blue;
   }
-}
 
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
